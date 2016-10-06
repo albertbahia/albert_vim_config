@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/niko/Coding_Bootcamps/FullStack-Lesson-Plans/02-lesson-plans/13-node-express-web-server/2-Homework'
+let g:netrw_dirhist_2='/Applications/MAMP/htdocs'
+let g:netrw_dirhist_3='/Users/niko/.config/robomongo'
+let g:netrw_dirhist_4='/Users/niko/.ssh'
